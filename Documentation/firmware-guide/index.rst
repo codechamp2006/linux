@@ -8,6 +8,6 @@ This section describes the ACPI subsystem in Linux from firmware perspective.
 
 .. toctree::
    :maxdepth: 1
-
+ 
    acpi/index
 
